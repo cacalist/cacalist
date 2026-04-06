@@ -5,6 +5,13 @@ I review content pull requests for the video game [Endless Sky](https://github.c
 I have also contributed to some other projects, mostly [BZFlag](https://bzflag.org) and [OpenFront.io](https://openfront.io).
 
 I haven't had a lot of time lately, so I'm not quite as active as I used to be.
+
+<p align="center">
+  <a href=" ">
+    <img src="https://skillicons.dev/icons?i=rust,py,js,git,bash&scale=1.0&theme=dark" />
+  </a>
+</p>
+
 <!--
 **cacalist/cacalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
