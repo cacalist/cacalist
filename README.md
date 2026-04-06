@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello! 
 
+I review content pull requests for the video game [Endless Sky](https://github.com/endless-sky/endless-sky).<br>
+
+I have also contributed to some other projects, mostly [BZFlag](https://bzflag.org) and [OpenFront.io](https://openfront.io).
+
+I haven't had a lot of time lately, so I'm not quite as active as I used to be.
 <!--
 **cacalist/cacalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
